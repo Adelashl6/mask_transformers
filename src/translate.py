@@ -71,7 +71,7 @@ def main():
     parser.add_argument("-eval_split_name", choices=["val", "test_public"])
     parser.add_argument("-eval_path", type=str, help="Path to eval data")
     parser.add_argument("-res_dir", required=True, help="path to dir containing model .pt file")
-    parser.add_argument("-batch_size", type=int, default=1, help="batch size")
+    parser.add_argument("-batch_size", type=int, default=50, help="batch size")
 
     # beam search configs
     parser.add_argument("-use_beam", action="store_true", help="use beam search, otherwise greedy search")
