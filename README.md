@@ -7,13 +7,13 @@ The folders contains four files listed below:
 ```
 1. **vatex_captioning.pkl** contains ground-truth captions for each video in Vatex.
 2. **vatex_splits.pkl** includes the name lists of training and testing set.
-3. **vatex_vocab.pkl** are the vocabulary of words in ground-truth captions.
-4. **vatex_vocab_glove.pt** stores the glove embeddings of all the words in the vocabulary.
+3. #vatex_vocab.pkl are the vocabulary of words in ground-truth captions.
+4. #vatex_vocab_glove.pt stores the glove embeddings of all the words in the vocabulary.
 ```
 
 Downloads the above files and move them to ./src/data/Vatex.
 
-# Performance:
+## Performance:
 | METEOR| BLEU@4  | CIDER  | ROUGE-L |
 | :-:   | :-: | :-: | :-: |
 | 23.0 | 28.03 | 50.45 | 47.01 |
