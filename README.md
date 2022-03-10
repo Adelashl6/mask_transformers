@@ -15,6 +15,6 @@ Downloads the above files and move them to ./src/data/Vatex.
 
 ## Performance:
 | METEOR| BLEU@4  | CIDER  | ROUGE-L |
-| :-:   | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: |
 | 23.0 | 28.03 | 50.45 | 47.01 |
 
