@@ -13,4 +13,7 @@ The folder should contain four files:
 ```
 
 # Performance:
-METEOR: 23.0 BLEU@4: 28.03 CIDER: 50.45 ROUGE-L: 47.01
+METEOR: 23.0 
+BLEU@4: 28.03
+CIDER: 50.45 
+ROUGE-L: 47.01
