@@ -9,5 +9,5 @@ https://drive.google.com/drive/folders/1rp3oxvGHL0JsCgsq7TDgE8JjeSCCXxGo
 4. vatex_vocab_glove.pt
 Downloads the files and move them to ./src/data/Vatex
 
-# Performance
+# Performance:
 METEOR: 23.0 BLEU@4: 28.03 CIDER: 50.45 ROUGE-L: 47.01
